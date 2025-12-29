@@ -1,0 +1,21 @@
+id,question,option_a,option_b,option_c,option_d,correct_option
+1,Kura no šīm ir tipiska daudzdzīvokļu mājas konstrukcija Rīgā?,Koka vienģimenes māja,Paneļu māja,Stikla debesskrāpis,Māja uz pontona,B
+2,Kas parasti visvairāk ietekmē dzīvokļa cenu Rīgā?,Iekšpagalma koku skaits,Istabu un platības kombinācija,Mājas nosaukums,Kaķu skaits mājā,B
+3,Kurš Rīgas rajons parasti ir dārgāks kvadrātmetrā?,Centrs,Bolderāja,Ķengarags,Vecmīlgrāvis,A
+4,Ko parasti nozīmē saīsinājums 'm²' sludinājumā?,Māja nr. 2,Metri kvadrātā,Minūtes līdz centram,Maksimālā cena,B
+5,Kāds īpašuma tips parasti ir vislētākais kvadrātmetrā?,Privātmāja klusā centrā,Jaunais projekts pie upes,Neremontēts dzīvoklis vecā paneļu mājā,Pilnībā renovēts dzīvoklis centrā,C
+"6,""Kā visbiežāk apraksta māju, kas celta no betona paneļiem?"",Mūra,Paneļu,Koka,Monolīta,B",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
+"7,""Ko nozīmē, ja dzīvokļa sludinājumā raksta 'bez ērtībām'?"",Nav interneta,Nav lifta un pagraba,""Nav centrālās apkures, karstā ūdens u.c."",Nav iespējas īrēt,C",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
+8,Kurš stāvs parasti tiek uzskatīts par pievilcīgāku daudzdzīvokļu mājā?,Pagraba stāvs,1. stāvs virs ieejas,Vidējie stāvi,Jebkurš stāvs virs 10.,C
+9,Kura no šīm lietām palielina dzīvokļa vērtību?,Slikta skaņas izolācija,Logi uz skaļu šoseju,Laba auto stāvvieta,Mājas fasāde bez remonta,C
+10,Kas ir 'nojume' nekustamajā īpašumā?,Pagrabs zem mājas,Stikla balkons,Vieglas konstrukcijas jumts virs ārtelpas,Siltināta ārsiena,C
+11,Ko bieži nozīmē teikums: 'Pārdod ar visu iebūvēto tehniku'?,Mēbeles bet bez virtuves,Iebūvētā virtuve un tehnika paliek,Dzīvoklis bez rozetēm,Neviens sadzīves tehniski priekšmeti nepaliek,B
+12,Ko parasti nozīmē 'jaunais projekts'?,Māja celta pēc 1990. gada,Māja celta pirms 1940. gada,Māja tikai projektēšanas stadijā,Māja ar nepabeigtu būvniecību,A
+13,Kas ir 'sērijveida māja'?,Unikāls arhitektūras piemineklis,Pēc standarta projekta būvēta daudzdzīvokļu māja,Māja ar vienu dzīvokli,Māja tikai īrei,B
+14,Kura no šīm ir raksturīga koka mājai?,Biezas dzelzsbetona sienas,Ķieģeļu nesošās sienas,Koka konstrukcijas un siltinājums,Stikla fasāde,C
+15,Kurš faktors parasti **samazina** dzīvokļa cenu?,Autostāvvieta slēgtā pagalmā,Laba sabiedriskā transporta satiksme,Pirmā līnija pie ļoti noslogotas ielas,Lifts un renovēta kāpņu telpa,C
+16,Ko nozīmē 'pagraba stāvs' dzīvokļa sludinājumā?,Dzīvoklis jumta stāva līmenī,Dzīvoklis daļēji vai pilnībā zem zemes līmeņa,Dzīvoklis ar augstiem griestiem,Dzīvoklis ar lielu terasi,B
+"17,Kas parasti raksturo labu plānojumu dzīvoklī?,""Šauras, garas istabas"",Izolētas guļamistabas un ērta virtuve,Istabas bez logiem,Griestu augstums zem 2 metriem,B",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
+"18,Ko nozīmē 'studio tipa dzīvoklis'?,Divstāvu dzīvoklis,Dzīvoklis ar atsevišķu virtuvi un viesistabu,""Dzīvoklis, kur virtuve un dzīvojamā zona vienā telpā"",Dzīvoklis tikai biroja vajadzībām,C",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
+"19,""Kurš termins raksturo dzīvokli, kas nav apdzīvots pēc remonta?"",Lietots,Daļēji remontēts,Pirmskara,Pēc remonta neviens nav dzīvojis,D",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
+"20,Ko visbiežāk nozīmē 'balts apdares stāvoklis'?,Dzīvoklis ar melnām sienām,Dzīvoklis pilnībā mēbelēts,""Dzīvoklis ar pabeigtām sienām un griestiem, bet bez virtuves un durvīm"",Dzīvoklis bez logiem,C",,[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],[Trūkst atbildes],
